@@ -11,5 +11,6 @@ def main():
     costototal = costomeg + costomeg + costomin
 
     print("El costo mensual es:", costototal)
+
 if __name__ == '__main__':
     main()
