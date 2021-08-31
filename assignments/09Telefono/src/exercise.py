@@ -4,9 +4,9 @@ def main():
     megas = float(input("Dame el numero de megas: "))
     minutos = int(input("Dame el numero de minutos: "))
 
-    costomen = mensajes*0.80
-    costomeg = megas*0.80
-    costomin = minutos*0.80
+    costomen = mensajes * 0.80
+    costomeg = megas * 0.80
+    costomin = minutos * 0.80
 
     costototal = costomeg + costomeg + costomin
 
